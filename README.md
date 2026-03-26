@@ -255,4 +255,4 @@ MIT License - Free for personal and commercial use
 - Make sure all tests pass  
 - Submit a pull request  
 
-**Tip:** Always use `--dry-run` first to preview changes before running actual replacements!
+**Tip:** Always use `--dry-run` first to preview changes before running actual replacements!git init
